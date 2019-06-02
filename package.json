@@ -1,0 +1,15 @@
+{
+  "name": "enbot",
+  "version": "1.0.0",
+  "description": "Discord Bot - ENBOT",
+  "main": "enbot.js",
+  "scripts": {
+    "start": "node enbot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "11.5.1",
+    "request": "2.81.0"
+  }
+}
