@@ -4,7 +4,7 @@
   "description": "Discord Bot - ENBOT",
   "main": "enbot.js",
   "scripts": {
-    "start": "node enbot.js"
+    "worker": "node enbot.js"
   },
   "author": "",
   "license": "ISC",
